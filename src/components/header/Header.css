@@ -1,0 +1,16 @@
+header {
+    position: sticky;
+    top: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+  }
+  
+  .todoLogo {
+    margin-right: 20px; /* Ajusta este valor según sea necesario para obtener el espaciado deseado */
+  }
+  
+  .headerName {
+    color: white; /* Para que el texto sea visible contra el fondo oscuro */
+  }

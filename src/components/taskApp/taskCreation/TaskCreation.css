@@ -1,0 +1,9 @@
+.taskCreation {
+    padding: 10px;
+    border: grey 1px solid;
+}
+
+.taskCreationItem {
+    width: 100%;
+    height: 100%;
+}
